@@ -1,6 +1,7 @@
 muid
 ===
 
+[![Build status][travis-image]][travis-url]
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 [![Dependency Status][david-image]][david-url]
@@ -46,5 +47,7 @@ License
 
 [![License][license-image]][license-url]
 
+[travis-image]: https://img.shields.io/travis/chunpu/muid.svg?style=flat-square
+[travis-url]: https://travis-ci.org/chunpu/muid
 [license-image]: http://img.shields.io/npm/l/muid.svg?style=flat-square
 [license-url]: #
